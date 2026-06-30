@@ -1,0 +1,15 @@
+langchain-core
+langchain-chroma
+langchain-huggingface
+sentence-transformers
+chromadb
+groq
+streamlit
+langgraph
+ragas 
+datasets 
+langchain-groq
+pandas
+
+
+
